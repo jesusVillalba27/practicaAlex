@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{F14C5300-6557-4849-BF43-491BB0104811}|alex\\alex.csproj|d:\\escritorio\\practica2\\alex\\alex\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{F14C5300-6557-4849-BF43-491BB0104811}|alex\\alex.csproj|solutionrelative:alex\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14C5300-6557-4849-BF43-491BB0104811}|alex\\alex.csproj|d:\\escritorio\\practica2\\alex\\alex\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F14C5300-6557-4849-BF43-491BB0104811}|alex\\alex.csproj|solutionrelative:alex\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14C5300-6557-4849-BF43-491BB0104811}|alex\\alex.csproj|d:\\escritorio\\practica2\\alex\\alex\\page2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F14C5300-6557-4849-BF43-491BB0104811}|alex\\alex.csproj|solutionrelative:alex\\page2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +22,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Page2.xaml",
+              "DocumentMoniker": "D:\\Escritorio\\Practica2\\alex\\alex\\Page2.xaml",
+              "RelativeDocumentMoniker": "alex\\Page2.xaml",
+              "ToolTip": "D:\\Escritorio\\Practica2\\alex\\alex\\Page2.xaml",
+              "RelativeToolTip": "alex\\Page2.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-18T03:52:21.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\Escritorio\\Practica2\\alex\\alex\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "alex\\MainPage.xaml.cs",
+              "ToolTip": "D:\\Escritorio\\Practica2\\alex\\alex\\MainPage.xaml.cs",
+              "RelativeToolTip": "alex\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAA7wAwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T03:50:05.314Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +58,7 @@
               "RelativeDocumentMoniker": "alex\\MainPage.xaml",
               "ToolTip": "D:\\Escritorio\\Practica2\\alex\\alex\\MainPage.xaml",
               "RelativeToolTip": "alex\\MainPage.xaml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAACQAAAAPAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-10-18T03:12:37.858Z",
               "EditorCaption": ""
