@@ -14,7 +14,7 @@
         // Métodos para redirigir a las diferentes páginas
         private async void OnPage1ButtonClicked(object sender, EventArgs e)
         {
-            //await Navigation.PushAsync(new Page1());
+            await Navigation.PushAsync(new pagina());
         }
 
         private async void OnPage2ButtonClicked(object sender, EventArgs e)

@@ -6,7 +6,11 @@
     <ActiveDebugProfile>Windows Machine</ActiveDebugProfile>
   </PropertyGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <MauiXaml Update="jesusv.xaml">
+=======
+    <MauiXaml Update="pagina.xaml">
+>>>>>>> 20ef3c45059fc632b536ecc407c223ca1ac4fc34
       <SubType>Designer</SubType>
     </MauiXaml>
   </ItemGroup>

@@ -12,22 +12,23 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = alex
-build_property.ProjectDir = C:\Users\Jesus Daniel\Desktop\gitalex\alex\alex\
+build_property.ProjectDir = C:\Users\2M0S2\Desktop\sopas\alex\alex\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 
-[C:/Users/Jesus Daniel/Desktop/gitalex/alex/alex/App.xaml]
+[C:/Users/2M0S2/Desktop/sopas/alex/alex/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = alex.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Users/Jesus Daniel/Desktop/gitalex/alex/alex/AppShell.xaml]
+[C:/Users/2M0S2/Desktop/sopas/alex/alex/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = alex.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
+<<<<<<< HEAD
 [C:/Users/Jesus Daniel/Desktop/gitalex/alex/alex/jesusv.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = alex.jesusv.xaml
@@ -35,18 +36,27 @@ build_metadata.AdditionalFiles.TargetPath = jesusv.xaml
 build_metadata.AdditionalFiles.RelativePath = jesusv.xaml
 
 [C:/Users/Jesus Daniel/Desktop/gitalex/alex/alex/MainPage.xaml]
+=======
+[C:/Users/2M0S2/Desktop/sopas/alex/alex/MainPage.xaml]
+>>>>>>> 20ef3c45059fc632b536ecc407c223ca1ac4fc34
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = alex.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[C:/Users/Jesus Daniel/Desktop/gitalex/alex/alex/Resources/Styles/Colors.xaml]
+[C:/Users/2M0S2/Desktop/sopas/alex/alex/pagina.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = alex.pagina.xaml
+build_metadata.AdditionalFiles.TargetPath = pagina.xaml
+build_metadata.AdditionalFiles.RelativePath = pagina.xaml
+
+[C:/Users/2M0S2/Desktop/sopas/alex/alex/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = alex.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[C:/Users/Jesus Daniel/Desktop/gitalex/alex/alex/Resources/Styles/Styles.xaml]
+[C:/Users/2M0S2/Desktop/sopas/alex/alex/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = alex.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml

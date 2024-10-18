@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Jesus Daniel\\Desktop\\gitalex\\alex\\",
+  "WorkspaceRootPath": "C:\\Users\\2M0S2\\Desktop\\sopas\\alex\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F14C5300-6557-4849-BF43-491BB0104811}|alex\\alex.csproj|c:\\users\\jesus daniel\\desktop\\gitalex\\alex\\alex\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F14C5300-6557-4849-BF43-491BB0104811}|alex\\alex.csproj|solutionrelative:alex\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{F14C5300-6557-4849-BF43-491BB0104811}|alex\\alex.csproj|c:\\users\\2m0s2\\desktop\\sopas\\alex\\alex\\pagina.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F14C5300-6557-4849-BF43-491BB0104811}|alex\\alex.csproj|solutionrelative:alex\\pagina.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F14C5300-6557-4849-BF43-491BB0104811}|alex\\alex.csproj|c:\\users\\jesus daniel\\desktop\\gitalex\\alex\\alex\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F14C5300-6557-4849-BF43-491BB0104811}|alex\\alex.csproj|c:\\users\\2m0s2\\desktop\\sopas\\alex\\alex\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F14C5300-6557-4849-BF43-491BB0104811}|alex\\alex.csproj|solutionrelative:alex\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F14C5300-6557-4849-BF43-491BB0104811}|alex\\alex.csproj|c:\\users\\jesus daniel\\desktop\\gitalex\\alex\\alex\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F14C5300-6557-4849-BF43-491BB0104811}|alex\\alex.csproj|solutionrelative:alex\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F14C5300-6557-4849-BF43-491BB0104811}|alex\\alex.csproj|c:\\users\\jesus daniel\\desktop\\gitalex\\alex\\alex\\jesusv.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F14C5300-6557-4849-BF43-491BB0104811}|alex\\alex.csproj|solutionrelative:alex\\jesusv.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F14C5300-6557-4849-BF43-491BB0104811}|alex\\alex.csproj|c:\\users\\jesus daniel\\desktop\\gitalex\\alex\\alex\\alex.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{F14C5300-6557-4849-BF43-491BB0104811}|alex\\alex.csproj|c:\\users\\2m0s2\\desktop\\sopas\\alex\\alex\\alex.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{F14C5300-6557-4849-BF43-491BB0104811}|alex\\alex.csproj|solutionrelative:alex\\alex.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14C5300-6557-4849-BF43-491BB0104811}|alex\\alex.csproj|c:\\users\\2m0s2\\desktop\\sopas\\alex\\alex\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F14C5300-6557-4849-BF43-491BB0104811}|alex\\alex.csproj|solutionrelative:alex\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14C5300-6557-4849-BF43-491BB0104811}|alex\\alex.csproj|c:\\users\\2m0s2\\desktop\\sopas\\alex\\alex\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F14C5300-6557-4849-BF43-491BB0104811}|alex\\alex.csproj|solutionrelative:alex\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,37 +34,49 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "jesusv.xaml",
-              "DocumentMoniker": "C:\\Users\\Jesus Daniel\\Desktop\\gitalex\\alex\\alex\\jesusv.xaml",
-              "RelativeDocumentMoniker": "alex\\jesusv.xaml",
-              "ToolTip": "C:\\Users\\Jesus Daniel\\Desktop\\gitalex\\alex\\alex\\jesusv.xaml",
-              "RelativeToolTip": "alex\\jesusv.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "pagina.xaml",
+              "DocumentMoniker": "C:\\Users\\2M0S2\\Desktop\\sopas\\alex\\alex\\pagina.xaml",
+              "RelativeDocumentMoniker": "alex\\pagina.xaml",
+              "ToolTip": "C:\\Users\\2M0S2\\Desktop\\sopas\\alex\\alex\\pagina.xaml",
+              "RelativeToolTip": "alex\\pagina.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-18T03:48:09.202Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "alex",
-              "DocumentMoniker": "C:\\Users\\Jesus Daniel\\Desktop\\gitalex\\alex\\alex\\alex.csproj",
-              "RelativeDocumentMoniker": "alex\\alex.csproj",
-              "ToolTip": "C:\\Users\\Jesus Daniel\\Desktop\\gitalex\\alex\\alex\\alex.csproj",
-              "RelativeToolTip": "alex\\alex.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-18T03:47:21.441Z",
+              "WhenOpened": "2024-10-18T03:35:14.528Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "alex",
+              "DocumentMoniker": "C:\\Users\\2M0S2\\Desktop\\sopas\\alex\\alex\\alex.csproj",
+              "RelativeDocumentMoniker": "alex\\alex.csproj",
+              "ToolTip": "C:\\Users\\2M0S2\\Desktop\\sopas\\alex\\alex\\alex.csproj",
+              "RelativeToolTip": "alex\\alex.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-18T03:31:17.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Jesus Daniel\\Desktop\\gitalex\\alex\\alex\\App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\2M0S2\\Desktop\\sopas\\alex\\alex\\App.xaml.cs",
               "RelativeDocumentMoniker": "alex\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\Jesus Daniel\\Desktop\\gitalex\\alex\\alex\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\2M0S2\\Desktop\\sopas\\alex\\alex\\App.xaml.cs",
               "RelativeToolTip": "alex\\App.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -75,22 +87,22 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Jesus Daniel\\Desktop\\gitalex\\alex\\alex\\MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\2M0S2\\Desktop\\sopas\\alex\\alex\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "alex\\MainPage.xaml.cs",
-              "ToolTip": "C:\\Users\\Jesus Daniel\\Desktop\\gitalex\\alex\\alex\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\2M0S2\\Desktop\\sopas\\alex\\alex\\MainPage.xaml.cs",
               "RelativeToolTip": "alex\\MainPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-18T03:18:46.43Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\Users\\Jesus Daniel\\Desktop\\gitalex\\alex\\alex\\MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\2M0S2\\Desktop\\sopas\\alex\\alex\\MainPage.xaml",
               "RelativeDocumentMoniker": "alex\\MainPage.xaml",
-              "ToolTip": "C:\\Users\\Jesus Daniel\\Desktop\\gitalex\\alex\\alex\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\2M0S2\\Desktop\\sopas\\alex\\alex\\MainPage.xaml",
               "RelativeToolTip": "alex\\MainPage.xaml",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
