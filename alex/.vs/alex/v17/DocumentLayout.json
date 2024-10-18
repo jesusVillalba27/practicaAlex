@@ -1,12 +1,83 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Jesus Daniel\\Desktop\\gitalex\\alex\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\2M0S2\\Desktop\\sopas\\alex\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F14C5300-6557-4849-BF43-491BB0104811}|alex\\alex.csproj|c:\\users\\2m0s2\\desktop\\sopas\\alex\\alex\\newpage1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F14C5300-6557-4849-BF43-491BB0104811}|alex\\alex.csproj|solutionrelative:alex\\newpage1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14C5300-6557-4849-BF43-491BB0104811}|alex\\alex.csproj|c:\\users\\2m0s2\\desktop\\sopas\\alex\\alex\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F14C5300-6557-4849-BF43-491BB0104811}|alex\\alex.csproj|solutionrelative:alex\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14C5300-6557-4849-BF43-491BB0104811}|alex\\alex.csproj|c:\\users\\2m0s2\\desktop\\sopas\\alex\\alex\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F14C5300-6557-4849-BF43-491BB0104811}|alex\\alex.csproj|solutionrelative:alex\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\2M0S2\\Desktop\\sopas\\alex\\alex\\MainPage.xaml",
+              "RelativeDocumentMoniker": "alex\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\2M0S2\\Desktop\\sopas\\alex\\alex\\MainPage.xaml",
+              "RelativeToolTip": "alex\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-18T03:40:59.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\2M0S2\\Desktop\\sopas\\alex\\alex\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "alex\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\2M0S2\\Desktop\\sopas\\alex\\alex\\MainPage.xaml.cs",
+              "RelativeToolTip": "alex\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T03:40:55.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NewPage1.xaml",
+              "DocumentMoniker": "C:\\Users\\2M0S2\\Desktop\\sopas\\alex\\alex\\NewPage1.xaml",
+              "RelativeDocumentMoniker": "alex\\NewPage1.xaml",
+              "ToolTip": "C:\\Users\\2M0S2\\Desktop\\sopas\\alex\\alex\\NewPage1.xaml",
+              "RelativeToolTip": "alex\\NewPage1.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-18T03:40:47.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
