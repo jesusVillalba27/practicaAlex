@@ -9,17 +9,32 @@
             InitializeComponent();
         }
 
-        private void OnCounterClicked(object sender, EventArgs e)
+      
+
+        // Métodos para redirigir a las diferentes páginas
+        private async void OnPage1ButtonClicked(object sender, EventArgs e)
         {
-            count++;
+            //await Navigation.PushAsync(new Page1());
+        }
 
-            if (count == 1)
-                CounterBtn.Text = $"Clicked {count} time";
-            else
-                CounterBtn.Text = $"Clicked {count} times";
+        private async void OnPage2ButtonClicked(object sender, EventArgs e)
+        {
+            //await Navigation.PushAsync(new Page2());
+        }
 
-            SemanticScreenReader.Announce(CounterBtn.Text);
+        private async void OnPage3ButtonClicked(object sender, EventArgs e)
+        {
+            //await Navigation.PushAsync(new Page3());
+        }
+
+        private async void OnPage4ButtonClicked(object sender, EventArgs e)
+        {
+            //await Navigation.PushAsync(new Page4());
+        }
+
+        private async void OnPage5ButtonClicked(object sender, EventArgs e)
+        {
+            //await Navigation.PushAsync(new Page5());
         }
     }
-
 }

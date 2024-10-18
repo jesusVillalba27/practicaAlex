@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Jesus Daniel\\Desktop\\gitalex\\alex\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F14C5300-6557-4849-BF43-491BB0104811}|alex\\alex.csproj|c:\\users\\jesus daniel\\desktop\\gitalex\\alex\\alex\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F14C5300-6557-4849-BF43-491BB0104811}|alex\\alex.csproj|solutionrelative:alex\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14C5300-6557-4849-BF43-491BB0104811}|alex\\alex.csproj|c:\\users\\jesus daniel\\desktop\\gitalex\\alex\\alex\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F14C5300-6557-4849-BF43-491BB0104811}|alex\\alex.csproj|solutionrelative:alex\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14C5300-6557-4849-BF43-491BB0104811}|alex\\alex.csproj|c:\\users\\jesus daniel\\desktop\\gitalex\\alex\\alex\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F14C5300-6557-4849-BF43-491BB0104811}|alex\\alex.csproj|solutionrelative:alex\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Jesus Daniel\\Desktop\\gitalex\\alex\\alex\\App.xaml.cs",
+              "RelativeDocumentMoniker": "alex\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Jesus Daniel\\Desktop\\gitalex\\alex\\alex\\App.xaml.cs",
+              "RelativeToolTip": "alex\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T03:19:52.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Jesus Daniel\\Desktop\\gitalex\\alex\\alex\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "alex\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Jesus Daniel\\Desktop\\gitalex\\alex\\alex\\MainPage.xaml.cs",
+              "RelativeToolTip": "alex\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T03:18:46.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Jesus Daniel\\Desktop\\gitalex\\alex\\alex\\MainPage.xaml",
+              "RelativeDocumentMoniker": "alex\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Jesus Daniel\\Desktop\\gitalex\\alex\\alex\\MainPage.xaml",
+              "RelativeToolTip": "alex\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-18T03:17:57.462Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
