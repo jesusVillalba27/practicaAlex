@@ -1,12 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Jesus Daniel\\Desktop\\gitalex\\alex\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Jorge Ospino\\Documents\\Practica\\alex\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F14C5300-6557-4849-BF43-491BB0104811}|alex\\alex.csproj|c:\\users\\jorge ospino\\documents\\practica\\alex\\alex\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F14C5300-6557-4849-BF43-491BB0104811}|alex\\alex.csproj|solutionrelative:alex\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Jorge Ospino\\Documents\\Practica\\alex\\alex\\MainPage.xaml",
+              "RelativeDocumentMoniker": "alex\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Jorge Ospino\\Documents\\Practica\\alex\\alex\\MainPage.xaml",
+              "RelativeToolTip": "alex\\MainPage.xaml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAACkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-18T03:11:09.086Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
