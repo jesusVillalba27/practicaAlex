@@ -2,15 +2,12 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="alex.NewPage1"
-             Title="NewPage1">
-    <VerticalStackLayout>
-        <Label 
-            Text="Welcome to .NET MAUI!"
-            VerticalOptions="Center" 
-            HorizontalOptions="Center" />
-        <Label 
-    Text="Welcome to .NET MAUI!"
-    VerticalOptions="Center" 
-    HorizontalOptions="Center" />
-    </VerticalStackLayout>
+             Title="Cuestionario">
+    <StackLayout Padding="20" Spacing="10">
+        <Label x:Name="PreguntaLabel" Text="Pregunta aquí" FontSize="Large" />
+        <Button x:Name="RespuestaButton1" Text="Respuesta 1" Clicked="OnRespuestaClicked" />
+        <Button x:Name="RespuestaButton2" Text="Respuesta 2" Clicked="OnRespuestaClicked" />
+        <Button x:Name="RespuestaButton3" Text="Respuesta 3" Clicked="OnRespuestaClicked" />
+        <Button Text="Volver a la Página Principal" Clicked="OnBackButtonClicked"/>
+    </StackLayout>
 </ContentPage>
